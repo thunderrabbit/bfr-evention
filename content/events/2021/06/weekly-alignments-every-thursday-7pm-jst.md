@@ -4,7 +4,7 @@ tags: [ "alignment", "event", "every", "thursday", "weekly" ]
 author: Rob Nugen
 date: 2021-06-08T17:44:10+09:00
 EventTime: "7pm ~ 8:30pm JST each Thursday"
-EventDate: "2021-06-14"
+EventDate: "2022-06-14"
 aliases: [
     "/events/2021/06/weekly-alignments-every-thursday-7pm-jst",
 ]
@@ -25,13 +25,4 @@ class="title" />
 
 #### Details
 
-June is the month for Joy!  Explore the ways you experience Joy, and reconnect
-with the fundamental Joy of being in a body on this Earth.
-
-#### About Weekly Alignments
-
-[Weekly Alignments](/weekly-alignments/) offer tools to get you present with your Self in the now.
-
-Weekly Alignments include a lot of channeled material coming from
-Source as I receive it in realtime, depending on questions and
-comments from the attendees present.
+Future event is in the future

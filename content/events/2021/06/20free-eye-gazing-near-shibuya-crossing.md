@@ -4,7 +4,7 @@ tags: [ "event", "eye", "gazing", "meditation" ]
 author: Rob Nugen
 date: 2021-06-07T14:19:02+09:00
 EventTime: "anytime between 3pm and 6pm"
-EventDate: "2022-06-20"
+EventDate: "2030-06-20"
 Aliases: [
     "/events/2021/06/20free-eye-gazing-near-shibuya-crossing"
 ]
@@ -16,11 +16,11 @@ alt="Barefoot Rob - I am happy to see you"
 class="title" />
 
 
-THIS FUTURE EVENT SHOULD SHOW IMAGE ON TOP PAGE
+THIS SAMPLE FUTURE (2030) EVENT SHOULD SHOW IMAGE ON TOP PAGE
 
 #### When
 
-**anytime** between 3pm and **5pm** on Saturday June 20th, 2022
+**anytime** between 3pm and **5pm** on Saturday June 20th, 2030
 
 #### Where
 

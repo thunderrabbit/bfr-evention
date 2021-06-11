@@ -8,8 +8,10 @@
         <div>
             <!-- A wrapper for all the blog posts -->
             <div class="posts">
-                {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-                {{ range $paginator.Pages }}
+              {{ $future_events := where  .Site.RegularPages "Type" "events" }}
+
+              {{ range sort $future_events "Params.eventdate" "desc" }}
+
                 <h1 class="content-subhead">{{ .Date.Format "02 Jan 2006, 15:04" }}</h1>
                 <section class="post">
                     <header class="post-header">

@@ -20,7 +20,7 @@ THIS FUTURE EVENT SHOULD SHOW IMAGE ON TOP PAGE
 
 #### When
 
-**gather at 11:45; enter Yoyogi Park at noon Sunday, June 20th, 2021**
+**gather at 11:45; enter Yoyogi Park at noon Sunday, June 20th, 2022**
 
 #### Where
 

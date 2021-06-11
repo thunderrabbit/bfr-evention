@@ -20,7 +20,7 @@ THIS FUTURE EVENT SHOULD SHOW IMAGE ON TOP PAGE
 
 #### When
 
-**anytime** between 3pm and **5pm** on Saturday June 20th, 2021
+**anytime** between 3pm and **5pm** on Saturday June 20th, 2022
 
 #### Where
 

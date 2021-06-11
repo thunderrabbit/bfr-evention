@@ -15,7 +15,7 @@ src="//b.robnugen.com/events/2021/2021_may_24_rob_eye_gazing_for_shibuya.jpeg"
 alt="Barefoot Rob - I am happy to see you"
 class="title" />
 
-PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE
+<div style="font-weight:bold; color:red">PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE</div>
 
 #### When
 

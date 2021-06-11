@@ -18,7 +18,7 @@ src="//b.robnugen.com/events/2021/2021_may_22_yoyogi_park.jpeg"
 alt="Yoyogi Park"
 class="title" />
 
-PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE
+<div style="font-weight:bold; color:red">PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE</div>
 
 #### When
 

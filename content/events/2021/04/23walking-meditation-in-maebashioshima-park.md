@@ -15,7 +15,7 @@ src="//b.robnugen.com/quests/walk-to-niigata/2021/route_plans/2021_apr_10_maebas
 alt="Google Street View Maebashioshima Park"
 class="title" />
 
-PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE
+<div style="font-weight:bold; color:red">PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE</div>
 
 
 #### When

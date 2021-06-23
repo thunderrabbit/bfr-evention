@@ -13,6 +13,8 @@ src="//b.robnugen.com/journal/2020/walk/2020_jun_30_rob_ferris_wheel.jpg"
 alt="Outside Yomiuriland big ferris wheel"
 class="title" />
 
+<div style="font-weight:bold; color:red">PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE</div>
+
 #### When
 
 **3,4,5pm? Saturday 17 April 2021**

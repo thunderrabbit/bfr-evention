@@ -14,6 +14,8 @@ src="https://b.robnugen.com/blog/2021/walking_in_nature.jpg"
 alt="Weekly Alignments 7pm Thursdays JST"
 class="title" />
 
+<div style="font-weight:bold; color:red">PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE</div>
+
 #### When
 
 **7pm ~ 8:30pm Thursday 22 April 2021**

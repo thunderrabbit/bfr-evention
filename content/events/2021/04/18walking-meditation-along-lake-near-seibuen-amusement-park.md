@@ -17,6 +17,8 @@ src="https://b.robnugen.com/blog/2021/walk_along_lake.png"
 alt="Pathway beside Tama Lake"
 class="title" />
 
+<div style="font-weight:bold; color:red">PAST EVENT SHOULD NOT SHOW IMAGE ON TOP PAGE</div>
+
 Refresh your spirit. Connect with nature.  Enjoy walking mindfully.
 
 (Barefoot?) Walking Experience:

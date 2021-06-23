@@ -8,7 +8,7 @@
         <div>
             <!-- A wrapper for all the blog posts -->
             <div class="posts">
-              {{ $future_events := where (where .Site.RegularPages "Type" "events") ".Site.RegularPages.Params.EventDate" "ge" (now.Format "2006-01-02") }}
+              {{ $future_events := where (where .Site.RegularPages "Type" "events") .Site.RegularPages.Params.EventDate "ge" (now.Format "2006-01-02") }}
 
               {{ range sort $future_events "Params.eventdate" "desc" }}
 
